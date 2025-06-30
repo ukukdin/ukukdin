@@ -1,5 +1,5 @@
 <!-- 헤더 이미지 (Capsule Render 활용) -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=안녕하세요!%20항상%20행복해요&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header)
 
 <p align="center">
   <b>안녕하세요, 개발자 엄인국입니다! 👋</b>
