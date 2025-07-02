@@ -45,8 +45,8 @@
 ### 🐛 내 잔디밭 지렁이
 <a href="mailto:eum714211@gmail.com" target="_blank"><img src="https://img.shields.io/badge/eum714211@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-<div align=center> 
-  <img alt="Snake Gif" src="https://github.com/ukukdin/ukukdin/blob/main/Snake_Gif.svg" />
+<div align="center"> 
+  <img alt="Snake Gif" src="https://github.com/ukukdin/ukukdin/raw/main/Snake_Gif.svg" />
 </div>
 
 
