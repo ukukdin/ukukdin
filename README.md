@@ -46,7 +46,7 @@
 <a href="mailto:eum714211@gmail.com" target="_blank"><img src="https://img.shields.io/badge/eum714211@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <div align=center> 
-  <img alt="Snake Gif" src="https://github.com/hyungkiShin/hyungkiShin/blob/main/Snake_Gif.svg" />
+  <img alt="Snake Gif" src="https://github.com/ukukdin/ukukdin/blob/main/Snake_Gif.svg" />
 </div>
 
 
