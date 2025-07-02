@@ -43,8 +43,11 @@
 
 
 ### 🐛 내 잔디밭 지렁이
-[![ukukdin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ukukdin&theme=github-compact&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="mailto:eum714211@gmail.com" target="_blank"><img src="https://img.shields.io/badge/eum714211@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
+<div align=center> 
+  <img alt="Snake Gif" src="https://github.com/hyungkiShin/hyungkiShin/blob/main/Snake_Gif.svg" />
+</div>
 
 
 
