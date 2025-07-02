@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header)
 
 <p align="center">
-  <b>안녕하세요, 개발자 엄인국입니다! 👋</b>
+  <b> “Hi, I'm Inguk Eom from South Korea.” 👋</b>
 </p>
 
 ---
